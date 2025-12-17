@@ -75,7 +75,7 @@ Se han definido 7 ejercicios de integración para validar el funcionamiento del 
 
 ## 5. Conclusiones y Análisis de Resultados
 
-Al ejecutar los casos de prueba y analizar el margen de error calculado mediante la fórmula $\lvert,$ValorEsperado $-$ ValorObtenido$\rvert$, se observan los siguientes comportamientos derivados de la naturaleza del método de Simpson 1/3:
+Al ejecutar los casos de prueba y analizar el margen de error calculado mediante la fórmula ValorEsperado $-$ ValorObtenido, se observan los siguientes comportamientos derivados de la naturaleza del método de Simpson 1/3:
 
 ### 1. Precisión en Funciones Polinómicas
 
